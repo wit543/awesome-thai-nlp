@@ -10,8 +10,8 @@
   - [jtcc](https://github.com/wittawatj/jtcc)
   - [SynThai](https://github.com/KenjiroAI/SynThai)
 - util
-  -[thailang4r](https://github.com/veer66/thailang4r)
-  -[pythai](https://pypi.python.org/pypi/pythai)
+  - [thailang4r](https://github.com/veer66/thailang4r)
+  - [pythai](https://pypi.python.org/pypi/pythai)
 - Gorverment
   - [NECTEC](https://www.nectec.or.th/research/research-unit/hccru-lst.html)
 - University
