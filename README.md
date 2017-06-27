@@ -16,4 +16,4 @@
   - [NECTEC](https://www.nectec.or.th/research/research-unit/hccru-lst.html)
 - University
   - [SIIT](http://saki.siit.tu.ac.th/thainlp/)
-  - [KU]()
+  - [KU](https://www.cpe.ku.ac.th/?lang=en)
