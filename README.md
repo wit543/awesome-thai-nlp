@@ -3,4 +3,3 @@
 
 word2vec
 - [pretrain model](https://github.com/Kyubyong/wordvectors)
-
