@@ -22,3 +22,5 @@
  - [iisilab](http://awn.iisilab.org/services)
  - [kaggle](https://www.kaggle.com/korakot/nlp/feed)
  - [vee](https://github.com/veer66/nlp_thai_resources)
+
+kingkaisery 85456525
