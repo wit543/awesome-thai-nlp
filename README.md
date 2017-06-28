@@ -7,6 +7,7 @@
   - [deepcut](https://github.com/rkcosmos/deepcut)
   - [jtcc](https://github.com/wittawatj/jtcc)
   - [SynThai](https://github.com/KenjiroAI/SynThai)
+  - [Tahinlk](https://github.com/pichaio/thainltk)
 - Pretrained Model
   - [wordvectors](https://github.com/Kyubyong/wordvectors)
 - Util
