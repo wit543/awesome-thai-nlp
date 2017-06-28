@@ -20,3 +20,4 @@
   - [KU](https://www.cpe.ku.ac.th/?lang=en)
 - Dataset
  - [iisilab](http://awn.iisilab.org/services)
+ - [kaggle](https://www.kaggle.com/korakot/nlp/feed)
